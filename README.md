@@ -23,7 +23,7 @@ El conjunto de datos es **privado**, perteneciente a una empresa. Incluye:
 - **Diario contable** (`diario_contable.xlsx`): histórico de asientos contables con todas sus líneas (cuenta, debe, haber...).
 - **Plan contable** (`plan_contable.xlsx`): listado de cuentas contables válidas (se filtran aquellas con 10 dígitos).
 
-> ⚠️ Todos los archivos se encuentran bajo la carpeta `/data_sample` y **no son públicos**.
+> ⚠️ Todos los archivos se encuentran bajo la carpeta `/data_sample` y **han sido modificados para anonimizar y desvirtualizar la información real de la compañía**.
 
 ### 🇬🇧 English
 
@@ -33,7 +33,7 @@ The dataset is **private**, belonging to a company. It includes:
 - **Accounting journal** (`diario_contable.xlsx`): historical journal entries with all lines.
 - **Chart of accounts** (`plan_contable.xlsx`): valid accounting accounts (only 10-digit codes are kept).
 
-> ⚠️ All files are located in `/data_sample` and are **not public**.
+> ⚠️ All files are located in `/data_sample` and **have been altered to anonimize and devirtualize the real info of the company**.
 
 ---
 
